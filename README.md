@@ -5,7 +5,11 @@ Repository for the course "Machine Learning and Pattern Recognition" - MO444 at 
 
 Reinforcement Learning (Policy search), Deep Learning (CNN and Transfer Learning), Image identification (YOLO) and Stochastic Optimization (Genetic algorithm) techniques were used to optimize the policy of the OpenGymAI Lunar-Lander-V2 Environment
 
-Development made with help of Tensorflow and DEAP packages. 
+Development made with help of Tensorflow and DEAP packages.
+
+video presentation:
+https://www.youtube.com/watch?v=9cL4qHz2VlQ
+
 
 ## Assignment 1: Linear Regression
 
